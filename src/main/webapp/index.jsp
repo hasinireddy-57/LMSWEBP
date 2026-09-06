@@ -6,6 +6,7 @@
 <body>
     <h2>Welcome to Campus Management System</h2>
     <p>Please login to continue.</p>
+    <p>New Feature: Student portal is now available!</p>
     <a href="login.jsp">Login</a>
 </body>
 </html>
