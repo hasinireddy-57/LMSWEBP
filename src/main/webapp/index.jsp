@@ -4,7 +4,7 @@
     <title>Campus Management System</title>
 </head>
 <body>
-    <h2>Welcome to Campus Management System</h2>
+    <h2>Welcome to KMIT Campus Management System</h2>
     <p>Login using ur student credentials.</p>
     <p>New Feature: Student portal is now available!</p>
     <a href="login.jsp">Login</a>
